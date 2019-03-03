@@ -12,4 +12,3 @@ while number > 0 :												# start loop from slected number to > 0
 	total = number + total										# Adding values to teh total
 	number -= 1     											# Decreasing counter by 1 in each iteration
 print("The sum of integers from your number down is: ", total)  # Printint message  and result total  
-#angel comment for github
