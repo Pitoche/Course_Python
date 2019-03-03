@@ -1,0 +1,12 @@
+git clone "https://github.com/Pitoche/Course_Python"
+
+git status
+
+git add "filenamee"
+
+git commit -m "my comments"
+
+git push
+
+git status 
+
