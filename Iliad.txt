@@ -1,0 +1,25 @@
+#Question 6
+
+
+str = input("Please neter your sentence \n")
+number_of_words = len(sentence.split())
+c = sentence.split("\\")
+d = c[0].split(".")
+
+print ("first ", d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
