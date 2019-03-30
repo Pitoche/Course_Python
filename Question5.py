@@ -36,4 +36,4 @@ except ValueError:
     print("No.. input string is not a number. It's a string. PLEASE TRY AGAIN!!!")
     
 #if number > 1:
-    5.p
+   
