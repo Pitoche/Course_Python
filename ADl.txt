@@ -1,16 +1,2 @@
-# Problem statement:  
-# Impact for the customer: 
-# Expected result: 
-
-
-I sent initial response via email as this is a P3 as this is  the preferred method of communication
-OR
-I rang customer and explained that there are no file-size limitation/settings but timeout settings
-Linked to documentation ? 68630456
-Requested information regarding: 
-•	Environment details 
-•	Resending Document describing issue (one attached is corrupt)
-•	D2.log indicating time of issue 
-•	Screenshot from Creation profile
-•	Webex might be necessary
+test 1
 
